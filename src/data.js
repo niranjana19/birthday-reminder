@@ -13,7 +13,7 @@ export default [
         age:'24',
         image: 'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg',
     },
-{
+{ 
     id:3,
     name:'Allen Sheroz',
     age:36,
